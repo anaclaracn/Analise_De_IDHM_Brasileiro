@@ -112,14 +112,20 @@ A análise exploratória dos dados revelou **relações profundas entre as difer
 ### 📊  IDHM Geral  
 A correlação do **IDHM 2010** com os demais indicadores evidenciou que o desenvolvimento humano no Brasil é **fortemente determinado pela renda e pela educação**.  
 Estados com **melhores índices de escolaridade e renda média** apresentam também **maior longevidade e menor vulnerabilidade social**.  
-As regiões **Sul e Sudeste** se destacam com as maiores correlações positivas, enquanto **Norte e Nordeste** concentram as menores, reforçando o retrato histórico das **desigualdades regionais brasileiras**.  
+As regiões **Sul e Sudeste** se destacam com as maiores correlações positivas, enquanto **Norte e Nordeste** concentram as menores, reforçando o retrato histórico das **desigualdades regionais brasileiras**.
+
+<img width="1116" height="790" alt="IDHM" src="https://github.com/user-attachments/assets/febc7f75-a898-4fb1-b43a-9373335af8bb" />
+
 
 ---
 
 ### 🎓  IDHM Educação  
 O eixo educacional apresentou correlação extremamente forte com **indicadores de emprego formal, renda domiciliar e expectativa de vida**.  
 Isso reforça a importância da **educação como base do desenvolvimento sustentável**, atuando como **fator multiplicador** que impacta diretamente outras dimensões sociais e econômicas.  
-Os gráficos mostraram que **estados com maior acesso à educação e menor taxa de analfabetismo** possuem também **melhores indicadores de saúde e renda**, confirmando a interdependência entre essas dimensões.  
+Os gráficos mostraram que **estados com maior acesso à educação e menor taxa de analfabetismo** possuem também **melhores indicadores de saúde e renda**, confirmando a interdependência entre essas dimensões.
+
+<img width="1180" height="790" alt="Educação" src="https://github.com/user-attachments/assets/41b30f9d-f07e-419e-a431-0c526abc77a7" />
+
 
 ---
 
@@ -128,12 +134,18 @@ Os indicadores de renda mostraram-se altamente correlacionados com **emprego for
 Fatores ligados ao mercado de trabalho — como **nível de ocupação, rendimento médio e informalidade** — explicam grande parte da variação do IDHM.  
 Estados com **economias mais diversificadas e industrializadas** (como São Paulo, Santa Catarina e Distrito Federal) apresentam padrões mais elevados, enquanto regiões mais dependentes de atividades primárias ainda enfrentam **maior vulnerabilidade econômica**.  
 
+<img width="1151" height="790" alt="Renda" src="https://github.com/user-attachments/assets/d09fe8c5-22fc-4fac-9cbf-37b79b8f86f0" />
+
+
 ---
 
 ### ❤️  IDHM Longevidade  
 A longevidade apresentou forte relação com **infraestrutura de saúde, saneamento básico, renda e escolaridade**.  
 Os estados com **melhor acesso à saúde e menor desigualdade social** tendem a ter **expectativas de vida mais altas**, mostrando que a longevidade é reflexo direto do **bem-estar social e das condições de vida urbanas**.  
 Essa correlação revela também como as **políticas públicas de saúde e saneamento** podem impactar significativamente o desenvolvimento humano de longo prazo.  
+
+<img width="1183" height="790" alt="Longevidade" src="https://github.com/user-attachments/assets/4ff4c974-75c3-4bf0-94b6-8ecc2800ee87" />
+
 
 ---
 
