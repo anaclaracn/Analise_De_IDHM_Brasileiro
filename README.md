@@ -1,4 +1,4 @@
-# Análise De Índice de Desenvolvimento Humano Municipal Brasileiro
+# Análise Do Índice de Desenvolvimento Humano Municipal Brasileiro
 
 ## Introdução
 
